@@ -1,3 +1,3 @@
-# ARES 2 Project
+# Project ARES 2 
 
 ## https://paaraan/github.io/
